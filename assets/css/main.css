@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+  text-align: center;
+  align-items: center;
+  font-family: 'Lato', sans-serif;
+}
+.imageDiv {
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.image {
+  border-radius: 20px;
+}
+.inputElement {
+  padding: 10px 30px 10px 30px;
+  border-radius: 20px;
+  border: none;
+  border: 1px solid #000;
+}
+.btn {
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  background-color: #63F0B6;
+  cursor: pointer;
+  border: none;
+}
